@@ -15,10 +15,13 @@ def abrir_nova_janela(resultados):
     # Adiciona texto
     # textbox.insert("0.0", "Aqui está um texto grande que você pode selecionar e copiar!")
     contador = 0
-    for resultado in resultados:
-        contador += 1
-        # Adiciona texto
-        textbox.insert("end", f"{contador} - {resultado}\n\n")
+    if(len(resultados) < 1):
+         textbox.insert("end", f"nenhum resultado encontrado")
+    else:
+        for resultado in resultados:
+            contador += 1
+            # Adiciona texto
+            textbox.insert("end", f"{contador} - {resultado}\n\n")
     contador = 0
         
     botao_fechar = ctk.CTkButton(nova_janela, text="Fechar", command=nova_janela.destroy)
@@ -57,16 +60,14 @@ def buscar(nomeBusca, caminhoInicial):
 def btBuscar(nome_arquivo, caminho):
     resultados = buscar(nome_arquivo, caminho)  # ou "/home" no Linux
 
-    if resultados:
-        print("Foram encontrados:\n")
-        with open("output.txt", "w") as  arquivo:
-            for r in resultados:
-                resultadoTratado = r.replace("\\\\", "\\")
-                arquivo.write(f"\n\{resultadoTratado}")
-                print(f"{resultadoTratado}")
-        abrir_nova_janela(resultados)
-    else:
-        print("Nenhum resultado encontrado.")
+    print("Foram encontrados:\n")
+    with open("output.txt", "w") as  arquivo:
+        for r in resultados:
+            resultadoTratado = r.replace("\\\\", "\\")
+            arquivo.write(f"\n\{resultadoTratado}")
+            print(f"{resultadoTratado}")
+    abrir_nova_janela(resultados)
+    
 
 # Define o modo de aparência
 ctk.set_appearance_mode("dark")  # "light" ou "system"

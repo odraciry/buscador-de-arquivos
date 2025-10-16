@@ -1,3 +1,576 @@
 
-\Z:\Automacao-Rep\Android\Pax\A8900\WP\PCT_WP_A8900\SO\PayDroid_12.0.0_Maple_V28.1.08_20250306.paydroid
-\Z:\Automacao-Rep\Android\Pax\A8900\WP\PCT_WP_A8900\SO\PayDroid_12.0.0_Maple_V28.1.08_20250306_OTA.zip
+\C:\Users\ricardo.pereira\Documents\atestado-13-10-2025.jpg
+\C:\Users\ricardo.pereira\Documents\comprovante-18-09-2025.jpg
+\C:\Users\ricardo.pereira\Documents\consulta-04-09-25.pdf
+\C:\Users\ricardo.pereira\Documents\ideia para finanças.png
+\C:\Users\ricardo.pereira\Documents\PayDroid_12.0.0_Acacia_V13.1.20_20250909_OTA.zip
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens
+\C:\Users\ricardo.pereira\Documents\Minhas Músicas
+\C:\Users\ricardo.pereira\Documents\Modelos Personalizados do Office
+\C:\Users\ricardo.pereira\Documents\Nova pasta
+\C:\Users\ricardo.pereira\Documents\pasta dev
+\C:\Users\ricardo.pereira\Documents\edr\database.docx
+\C:\Users\ricardo.pereira\Documents\Meus Vídeos\Captures
+\C:\Users\ricardo.pereira\Documents\Meus Vídeos\edr\database.docx
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\Camera Roll
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\Feedback
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\Saved Pictures
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\edr\database.docx
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\Feedback\{55D42D5E-FA0C-42CB-AF12-5C7DF63F6E65}
+\C:\Users\ricardo.pereira\Documents\Minhas Imagens\Feedback\{FE3DE050-2DCA-494D-AC62-231F07AED3BB}
+\C:\Users\ricardo.pereira\Documents\Minhas Músicas\edr\database.docx
+\C:\Users\ricardo.pereira\Documents\pasta dev\docker-coisas
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\applypatch-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\fsmonitor-watchman.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\post-update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-applypatch.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-merge-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-push.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-rebase.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\pre-receive.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\prepare-commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\push-to-checkout.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\sendemail-validate.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\hooks\update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\logs\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\logs\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\logs\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\logs\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\pack
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\3e\0d61ab2c7fac4e12d2e9d2a913311326236977
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\66\e5c80a7180f9c0b99fff1426157b5e7f7a8847
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\7c\a0f5553632242c9b3164a7bcb3c9433bd081ae
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\80\73a97acc2bfab170d172ebaefdf9f62eb28c96
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\83\63defc7939d24b9ca24f74af58e743b40027a4
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\8b\fb40549dda36fd8d1073306bda8c62e43ef331
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\df\113c4a4cccaa80d0092b7ef02f59500928ab49
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\e6\a34e98a24eacb99663d0cef4fc5b1816f218a8
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\objects\e6\ca80c813cba473c2c8a319c5df2c991e620d26
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\refs\tags
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\codeInPython\.git\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\layout inspiração.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\applypatch-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\fsmonitor-watchman.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\post-update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-applypatch.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-merge-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-push.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-rebase.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\pre-receive.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\prepare-commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\push-to-checkout.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\sendemail-validate.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\hooks\update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\logs\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\logs\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\logs\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\logs\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\1a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\5a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\9a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\a2
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\fa
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\pack
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\03\8c1f57df3420a92b5ddffb37e7c80cd2f0113e
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\04\17b8a305a0693bfbabc3d157eb36923a16ddb4
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\04\dd50f2bd197b3230181da043da58f72614b1e4
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\05\b35eb0f4296d494254935f0bf7af2694da7da0
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\06\220940a0c018fbf0fd615d87212d63b2ff000b
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\09\893208c350ad4c7ece2650f0e94851f38f75ef
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\0c\adc340a7fc7b79efadf09e5216e36930daf357
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\11\f562033dd5c6c84d4207fabd09a9607dc19f6f
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\15\6e05fb27073d9c75d94794c1b796f9a6363d42
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\17\41b08552b68d5de7604022ad9f17d3926e155b
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\17\6a694c12a31782d389f741e664a8a9c4c5f411
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\19\e6737c5d0b35a61dcb40870d363bcbadf11330
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\1a\5ef7e2fb259c0297f47a10365b5e4cf62b423b
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\20\04054e9efd499fb5398c2c619672d247100a91
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\21\d0a010567b99585164a3523cda52cb99822d85
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\2e\bdaba61d691d48e7287af5d9595f66960f53a5
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\47\c4a3811e4fac67bc541a0a36ad05c8b70fbed3
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\49\99e55136dbfdc0075b43a648e6bb681a6ecc6f
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\4b\ada5e04ce598fa4480029782f8ea97412aede9
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\55\88d7fb8361045881768a3ddf3e5d339b45fa22
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\56\2f92a00b73e32eb4749d72e3738a2f2a8e4a6e
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\58\4906016e5d78b962cf5b2e41aca01a95132c50
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\58\6493c83d204ab559750dd736c5351a580fd747
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\5a\e492b4b71cdb2a00085aeb2079e3d9e62926bf
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\5c\d7c692e83a18d586327935790a76bfa9fea8f5
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\62\2709d749791149e1ed290c56354e6eae504c9d
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\68\5959f7896e2ff680764e7d68bacfa47fa8d8cb
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\68\c7f38def3a39963f6820482583b56aabb85fca
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\6f\c94979f87a0ddf845126172289fbc05f2d86bf
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\70\a9e4209589c272b7b7f39acdb1434fa7d72f1a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\7c\6e888b18993b09e9b79a7368422a7a8196074c
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\7c\e8196d20c8f2c64fb4e3e999d34124a7f95887
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\7d\d8298334859db4caf3159eadcd8573c610a39e
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\80\004033722131d12f1b202a02c0e4cd5a7cade9
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\88\e3e605dd8428d5d0373d622bae4e226c8bce7b
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\89\9ec76cebe5bb6e0a5291f0a64bac347876a34f
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\8b\86c7fe69fab946392d0a6be0a203cb1e692f72
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\96\929cabde7ba199f2978b798a2c425e45576950
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\97\da10394a63ea99a013fce2bfe467152874733b
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\9a\cae3076012ac44040c9300a861c0c8eb250a36
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\9e\57c3186c1071ed6a424431fb812bb2d2fbf753
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\a2\b541da364439ca62eecab5050fdf14692b38d9
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\b1\407359745a1efb9b82c5ba1e14004ad9f83bc1
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\b8\4e744e609a28e81e4b138f878c91832d555551
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\c0\a0a648f336768fd879952d393bd727a433aa33
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\c3\9206325be2320e55a35eb47375d49dfd1e055a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\c4\8f7407acbc01ff89e4b193907f621bfeb7edd5
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\c7\05e58fc09b13ef3329c7129ac0dc2ccfab6a3a
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\c7\70e765f0284af8c34ef0a2e556f22c384b2174
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\cb\607e560afa75e40f32e65d1ad48fe75769b2e9
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\cf\458cdb03bfa5977df2c40083f6724936ad3395
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\d1\5bf860045cdb8a0a81934513a77b04dbece368
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\d3\a6cf2c7b06624e58f2b0637e41903208590489
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\dd\ccf3533bdc3b75a8a979d92759b61e8b790d18
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\de\cc789a331affe17cf9328536113b0de404e299
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\df\8a0f011eb4f66a2340f1245421c01db8893882
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\e9\eeee0be1270f1b81df1e83fb24510ae6fbd215
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\f3\2969c79491f36be6331dc220ad8cf79e0bb797
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\objects\fa\e734d712148338ef69e790d15e25d4a31f8c5c
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\refs\tags
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\.git\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\img\icon-pasta.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\img\lixeira.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\financa\img\pasagem.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\applypatch-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\fsmonitor-watchman.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\post-update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-applypatch.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-merge-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-push.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-rebase.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\pre-receive.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\prepare-commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\push-to-checkout.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\sendemail-validate.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\hooks\update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\logs\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\logs\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\logs\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\logs\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\1a
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\8a
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\a1
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\a3
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ad
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ae
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ba
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\pack
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\00\8717be4b9a1822584febf401ff65847b7fe32d
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\10\5d981d4c8ea9f63247ec705d211b11f67ba2a4
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\13\5f791c880cd958a553ad29adfa1ab7b996c41b
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\1a\7ce27d0678c6b788d3c66ca7dc2845eb86033d
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\1f\d129e3b2bd5ac3516a16462597fdd1f8008995
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\31\094f03fb5d88e1c2b14af9aeb3eba7347ac103
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\31\de05d5a2f8dd178d667b7100d7805946ce76c3
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\46\5d9ce624398f9ac340d834e2203c0fe9294421
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\47\23abefa2bd8aedf5b20f377ebc6f05afd88ff8
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\4c\ecc71b2e654dba8d8282cea70b02b287917b93
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\51\7d7f0a88b6cc0ac57c921d596e6287d9e512df
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\56\b90ee1db8482077450f3a383003d4e8443bfbf
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\59\96c85d440db9b95ff634ddc42ea32bffa06cdf
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\5b\ea663d44163d9f477de5986bb28596251f503f
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\6f\1b51bb32eac86b88508ff055312fdf4bb40958
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\77\5426aee7808359ac07659ce5f2f8c8c7a7feaf
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\7f\82877764682ce346c9a354dc63b8ffd8e1fe60
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\87\10ba475304e4af37ceb1ea46b0553525a69d75
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\8a\d0ac0f966e4f3b645caeb64b9042f5a69d6e09
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\8c\4b0a4c1232204ea63bacfa852066ef7a9cb1f6
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\9b\dd72faff0256851fadb9ca1971c576190dfd96
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\a1\16406eed9f08ad9f61d47ac0b1951969c66b9e
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\a3\1771283d8ed6ab5511a80a541a26e870c1bbe2
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\a3\e92b9c0c80ef4ff6d7e0fd5d48b07488c960a0
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ad\9e4648b2b53a631d62ac26bd490b3bdbea9ec8
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ae\074ae3615fdb0b2e770b21609e29ceb30ae731
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\b0\46ee6f8022dab87af1c4cf239a31d4b15d94e0
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\b0\d853c6c5ef5be496c16cae280c1b5e37542988
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\b8\94d8b3da12c2f85a7aae2396401556fa326174
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ba\fe443994012e0f7b40fef0585ba325b47ca718
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\c0\67374ba5584cfafe498e69ff0a567a4cb18b40
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\c6\0865b18044bd1a29944697d34e406df9d9eae2
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\c8\aae304433c1a05fec47c20cabfdc403dede16c
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\d3\362c353160d8d93dfa89aa82b941375a246468
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\d6\729fe1520e744c4729a26e5ab5071fa9120227
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\db\4916ded968123abf212274c48d62699266ac7c
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\db\b5681e00dbb303886a16887ec1257053fcac7c
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\e1\8efb7ebe2932cb9e7c208245ba311494d4a389
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\e6\33f93e25a13963e455d574adb10f5d7ac42d1d
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\e9\048a4cec4598a28c1e13603a8a4a3f9dab2eae
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\e9\215ee8e5c882639f6ad745e0a8af88647e3e6b
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\objects\ee\fac1a54a5520fabda11bed8df62242aba2a9fe
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\refs\tags
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\.git\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\casal.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\colinas.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\desfiladeiro.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\energia.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\infinidade.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\medalha.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\front\img\serra.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\applypatch-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\fsmonitor-watchman.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\post-update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-applypatch.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-merge-commit.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-push.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-rebase.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\pre-receive.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\prepare-commit-msg.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\push-to-checkout.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\sendemail-validate.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\hooks\update.sample
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\logs\HEAD
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\logs\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\logs\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\logs\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\4a
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\aa
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\ca
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\pack
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\05\2c148a794346431a37e33d7d3398ec55d78a59
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\19\3e009e4c61ac52392aa5269401cc8a692c0247
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\25\1ef86a787c315174ee5f191a0ade064cbcbe80
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\28\0687b7447acf020a7aeb4cf128eb912c6fbdc6
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\2d\d7ae874c199b2ecc50d4445aa81fb497cff74f
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\31\4147785e2576347bbf9c94ea5fe5c276df8d8b
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\38\fe2f68cc239c8ceb1ea7f1edc68672cac2c0cd
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\4a\54b66fc6fe62642cc79fcb16b125b4701acb1b
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\8f\08a71fec18881ff9964978d0b7050ae81536d0
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\aa\5bdceb2f230313d967579147a02030eeab3479
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\b1\4a0f59157232122be4c8263391559c4e675b6b
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\b8\59fec590a5131d6f3d0e207ba0e78e4abd4648
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\b8\9bc699cf91f7c176f01a58ca7316eba10fb57d
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\bb\870d9d210cb8160bfaa4b0131c148e5596b65c
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\ca\66a11e9973163340787963249e94ad45275d46
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\cb\fb28dbe86159f6a47877b469cab010b2d6deb4
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\ce\1503ba923b5b822595a8e7c1165a65ef82d0b5
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\cf\c60a9910ac4c1a0ace5f234850f37fc2ecb26d
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\d6\0bfd41c18af8ee5ab10d5a0d268cae8c15d2ef
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\objects\d9\c54d4c431bd416e8dac4479399ead3885fd5ba
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\refs\heads
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\refs\tags
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\refs\heads\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\.git\refs\remotes\origin\master
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\img\angra-dos-reis.jpg
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\img\icons\down-arrow.png
+\C:\Users\ricardo.pereira\Documents\pasta dev\pedro\img\icons\search.png
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\armeabi.zip
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\Classes2.2.12.jar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3.rar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\NeptuneLiteApi_V4.10.00_20241122.jar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\NeptuneProguardRules.pro
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\PayLib-release-1.4.124.aar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\printerlibrary-1.0.23.aar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\RELEASE_NOTES.txt
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\TectoyLib_v1.6.6_release.aar
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\armeabi
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\armeabi\libIGLBarDecoder.so
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\armeabi\libZBarDecoder.so
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\allclasses-index.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\allpackages-index.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\deprecated-list.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\member-search-index.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\module-search-index.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\overview-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\package-search-index.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\search-page.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\search.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\search.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\serialized-form.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\tag-search-index.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\type-search-index.js
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\legal
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\SPBaseException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\SPBaseExInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\SPIBase.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\class-use\SPBaseException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\class-use\SPBaseExInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\class-use\SPIBase.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\EBaseReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\base\enums\class-use\EBaseReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\SPICashDrawer.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\cashdrawer\class-use\SPICashDrawer.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\EConnectStatusSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\comm\enums\class-use\EConnectStatusSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\APN.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPApnInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPChannelException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPCommManagerException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPIChannel.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPICommManager.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPLanParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPLanProxyInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPMobileParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPModemParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\SPUartParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\APN.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPApnInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPChannelException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPCommManagerException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPIChannel.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPICommManager.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPLanParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPLanProxyInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPMobileParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPModemParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\class-use\SPUartParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\EChannelReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\EChannelTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\ECommManagerReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\EUartPortSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\class-use\EChannelReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\class-use\EChannelTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\class-use\ECommManagerReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\commmanager\enums\class-use\EUartPortSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\HardwareServiceListenerSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\SPIDal.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\class-use\HardwareServiceListenerSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\class-use\SPIDal.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\dal\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\AppNetworkStatsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\ResultCallback.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\class-use\AppNetworkStatsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\class-use\ResultCallback.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\deviceinfo\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPApduSendInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPAT24CxxException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPAT88SC102Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPAT88SC153Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPAT88SC1608Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardAT24Cxx.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardAT88SC102.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardAT88SC153.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardAT88SC1608.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardSle4428.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPICardSle4442.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPIccPara.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\SPIMemoryCard.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPApduSendInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPAT24CxxException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPAT88SC102Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPAT88SC153Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPAT88SC1608Exception.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardAT24Cxx.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardAT88SC102.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardAT88SC153.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardAT88SC1608.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardSle4428.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPICardSle4442.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPIccPara.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\class-use\SPIMemoryCard.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\EAT24CxxSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\EAT88SC102SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\EAT88SC153SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\EAT88SC1608SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\class-use\EAT24CxxSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\class-use\EAT88SC102SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\class-use\EAT88SC153SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\icc\enums\class-use\EAT88SC1608SP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\SPIMag.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\SPMagException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\SPTrackData.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\class-use\SPIMag.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\class-use\SPMagException.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\class-use\SPTrackData.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\EMagReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\mag\enums\class-use\EMagReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\SPAppNetworkFilter.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\class-use\SPAppNetworkFilter.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\network\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\SPRSAKeyInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\SPRSAPinKey.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\SPRSARecoverInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\SPSM2KeyPair.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\class-use\SPRSAKeyInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\class-use\SPRSAPinKey.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\class-use\SPRSARecoverInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\class-use\SPSM2KeyPair.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\EAesCheckModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\EAlgorithmTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\ECryptOperateSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\EDUKPTMacModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\EIdKeycCalcModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\EPedMacModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\EAesCheckModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\EAlgorithmTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\ECryptOperateSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\EDUKPTMacModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\EIdKeycCalcModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\ped\enums\class-use\EPedMacModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\SPIPhoneManager.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\SPOperatorInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\SPOperatorInfo.SPState.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\class-use\SPIPhoneManager.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\class-use\SPOperatorInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\class-use\SPOperatorInfo.SPState.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\EPhoneManagerReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\phonemanager\enums\class-use\EPhoneManagerReturnsSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\SPApduRespInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\SPPiccCardInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\SPPiccPara.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\class-use\SPApduRespInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\class-use\SPPiccCardInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\class-use\SPPiccPara.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\EM1OperateTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\picc\enums\class-use\EM1OperateTypeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\EPrinterAlignmentSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\EPrinterBitmapModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\class-use\EPrinterAlignmentSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\printer\enums\class-use\EPrinterBitmapModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\ASCallerSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\SPBaseInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\SPIStateLamp.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\SPNtpServerParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\class-use\ASCallerSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\class-use\SPBaseInfo.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\class-use\SPIStateLamp.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\class-use\SPNtpServerParam.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\ELocationModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\ENavigationKeySP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\ERepeat.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\package-summary.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\package-tree.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\package-use.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\class-use
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\class-use\ELocationModeSP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\class-use\ENavigationKeySP.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\br\com\tectoy\sys\enums\class-use\ERepeat.html
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\legal\ADDITIONAL_LICENSE_INFO
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\legal\ASSEMBLY_EXCEPTION
+\C:\Users\ricardo.pereira\Documents\Tectoylib-1.6.6\JavaDoc_v1.5.3\JavaDoc\resources\glass.png
+\C:\Users\ricardo.pereira\Documents\teste\comprovante-18-09-2025.jpg
